@@ -13,4 +13,3 @@ WHAT IS BUTTERWORTH LOWPASS FILTER?
 
 A Butterworth filter is a type of signal processing filter designed to have a frequency response as flat as possible in the passband. Hence the Butterworth filter is also 
 known as “maximally flat magnitude filter”. Butterworth Lowpass Filter helps in Image smoothening by removing high frequency noise from digital image.
-
